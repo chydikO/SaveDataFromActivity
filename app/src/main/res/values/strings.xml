@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SaveDataFromActivity</string>
     <string name="hint_message">Your message</string>
+    <string name="button_implicit_intent">Implicit Intent</string>
 </resources>
