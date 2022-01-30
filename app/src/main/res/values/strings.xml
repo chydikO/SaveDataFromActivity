@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SaveDataFromActivity</string>
+    <string name="hint_message">Your message</string>
+</resources>
